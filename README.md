@@ -1,6 +1,6 @@
 # Coursera-Java-Assignment---Data-Structures-and-Performance
 
-EVERY WEEK'S PROGRAMMING ASSIGNMENTS QUESTIONS ARE PROVIDED IN "QUESTIONS" DIRECTORY IN "src" DIRECTORY
+EVERY WEEK'S PROGRAMMING ASSIGNMENTS QUESTIONS ARE PROVIDED IN "QUESTIONS" DIRECTORY
 
 /-------------------------------------------------------------------------
 / Starter Code and GUI Application for Course 2 in the
